@@ -1,38 +1,94 @@
-## docsify
+# 14周目简介
+纯净多插件多玩法群组服
 
-> A magical documentation site generator.
+# **子服介绍**
 
-## What it is
+## 精英粘液MT生存服
+### 核心插件
+#### 精英怪物
+	玩法介绍:
+		1.精英怪
+			通过杀死精英怪物获取掉落的精英币及精英装备
+			附近精英怪物刷新受玩家个人战斗等级影响(多个玩家按最高)
+		2.个人战斗等级
+			精英装备决定玩家个人战斗等级
+			包含主手武器
+		3.精英币
+			使用：
+				升级公会等级
+				铁匠处购买精英装备
+				铸铁大师处购买精英护符
+			获取：
+				精英怪掉落
+				铁匠处出售精英物品
+				铸铁大师处出售精英物品
+				菜单->货币系统->金钱兑换精英币
+		4.精英装备
+			装备等级：决定装备品质上限
+			声望等级：决定装备可用性
+			原版附魔：与原版附魔一致
+			自定义附魔：只对精英怪物生效
+			效果：与原版药水效果一致
+					⚔☠攻击时对目标生效
+					⚔🛡攻击时对自己生效
+					⟲对自己循环生效
+					◇生效一次
+			绑定：
+				灵魂绑定：绑定玩家可捡起使用
+				声望绑定：灵魂绑定情况下同声望可使用
+		5.冒险者公会
+			输入指令/ag前往或者打开菜单左键冒险者系统
+			NPC：
+				铁匠        -     买卖装备
+				铸铁大师    -     买卖护符
+				废物利用    -     精英物品转换废料
+				修理工      -     使用废料修理装备
+				附魔工		-	  使25格相同废料转换成同级升级魔法球
+				强化工 		-	  使用升级魔法球强化装备
+				
+	Tips: 
+		精英怪物相关NPC在冒险者公会,输入指令/ag前往或者打开菜单左键冒险者系统
+		公会等级影响精英怪掉落装备等级上限 如公会等级1则怪物掉落装备等级上限为20
+		玩家只需对精英怪物造成伤害,无论怪物最后如何死亡均能获取独属的奖励
+#### 粘液科技
+	相关玩法教程参考粘液官方WIKI
+	
+#### MineTinker
+	相关玩法教程参考MT官方WIKI
+	
+	
+#### 金钱
+	获取:
+		1.每日签到
+		2.每日顶贴
+		3.杀怪奖励(未来上线)
+		3.挖矿奖励(未来上线)
+	使用:
+		1.圈地0.01/格
+		2.兑换精英比1:100
 
-docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an `index.html` and [deploy it on GitHub Pages](deploy.md).
-
-See the [Quick start](quickstart.md) guide for more details.
-
-## Features
-
-- No statically built html files
-- Simple and lightweight
-- Smart full-text search plugin
-- Multiple themes
-- Useful plugin API
-- Emoji support
-- Compatible with IE11
-- Support server-side rendering ([example](https://github.com/docsifyjs/docsify-ssr-demo))
-
-## Examples
-
-Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see docsify in use.
-
-## Donate
-
-Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
-
-## Community
-
-Users and the development team are usually in the [Discord server](https://discord.gg/3NwKFyR).
-
-## Special Thanks
-
-_Vercel_ has given us a Pro account.
-
-<a href="https://vercel.com/?utm_source=docsifyjsdocs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/docsifyjs/docsify/docs/_media/vercel_logo.svg" width="100px"></a>
+#### 点券
+	获取:
+		1.每日顶贴
+	使用:
+		1.兑换金钱
+		
+		
+## 白明单生电服(即将上限)
+	无保护无限制高自由度和谐友爱共同发展世界
+### 准入资格
+		1.加入黎明大陆至少2个月
+		2.无违规记录
+		3.和谐友爱互帮互助
+		4.每周至少3日在线
+###	资格申请
+	私聊帽砸内容格式：
+		MC年限：(玩MC多少久了)
+		游戏ID：(常用游戏ID)
+		擅长方向：(建筑|电路|一颗好肝)
+		加入时间：(加入黎明大陆的时间)
+		每周在线：(每周至少上限几天)
+		
+	
+## 网格生存服(即将上限)
+	待编辑
